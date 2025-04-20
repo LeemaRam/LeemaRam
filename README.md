@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Leema Ram</h1>
 <h3 align="center">A passionate Web Developer and Tech Enthusiastic</h3>
 
