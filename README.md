@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/leema-ram23" target="blank"><img src="https://img.shields.io/twitter/follow/leema-ram23?logo=twitter&style=for-the-badge" alt="leema-ram23" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant Management System**
+- 🔭 I’m currently working on **Clinix.ai:** ***AI-Powered Medical Consultation
+Transcription and Report Generation System***
 
 - 🌱 I’m currently learning **Advanced REACT JS, and AI Integration**
 
