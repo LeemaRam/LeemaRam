@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leemaram&label=Profile%20views&color=0e75b6&style=flat" alt="leemaram" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leemaram" alt="leemaram" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leemaram" alt="leemaram" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/leema-ram23" target="blank"><img src="https://img.shields.io/twitter/follow/leema-ram23?logo=twitter&style=for-the-badge" alt="leema-ram23" /></a> </p>
 
