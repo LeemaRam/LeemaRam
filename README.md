@@ -4,9 +4,9 @@
 <h3 align="center">🚀 Web Developer | AI Enthusiast | Future Tech Entrepreneur</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leemaram&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/leemaram?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/leemaram?label=Stars&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=LeemaRam&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/LeemaRam?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/LeemaRam?label=Stars&style=flat" />
 </p>
 
 ---
@@ -15,20 +15,13 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 BS Computer Science Student (NUTECH, Islamabad)
-
-* 🔭 Currently building **Clinix.ai**
-  *AI-powered medical consultation transcription & report generation system*
-
-* 🌱 Learning **Advanced React.js, AI Integration & Fullstack Development**
-
-* 👯 Open to collaborate on **Frontend & Fullstack Projects**
-
-* 🤝 Looking for help with **AI-powered chatbot integration**
-
-* 💬 Ask me about **React, JavaScript, Web Development & AI Basics**
-
-* 📫 Reach me at: **[leemaram101@gmail.com](mailto:leemaram101@gmail.com)**
+* 🎓 BS Computer Science Student (NUTECH, Islamabad)  
+* 🔭 Currently building **Clinix.ai** – AI-powered medical consultation transcription & report generation system  
+* 🌱 Learning **Advanced React.js, AI Integration & Fullstack Development**  
+* 👯 Open to collaborate on **Frontend & Fullstack Projects**  
+* 🤝 Looking for help with **AI-powered chatbot integration**  
+* 💬 Ask me about **React, JavaScript, Web Development & AI Basics**  
+* 📫 Reach me at: **[leemaram101@gmail.com](mailto:leemaram101@gmail.com)**  
 
 ---
 
@@ -53,16 +46,6 @@
 
 ---
 
-<!-- TECH STACK -->
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,java,cpp,git,figma" />
-</p>
-
----
-
 <!-- FEATURED PROJECT -->
 
 ## 🚀 Featured Project
@@ -71,9 +54,9 @@
 
 > AI-powered system for medical consultation transcription & report generation
 
-* 🎯 Converts doctor-patient conversations into structured reports
-* 🤖 AI integration for smart summarization
-* 🌐 Future: Full SaaS product for clinics
+* 🎯 Converts doctor-patient conversations into structured reports  
+* 🤖 AI integration for smart summarization  
+* 🌐 Future: Full SaaS product for clinics  
 
 ---
 
@@ -82,30 +65,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leemaram&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leemaram&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leemaram&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeemaRam&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- TROPHIES -->
-
-<!-- TROPHIES + ACHIEVEMENTS -->
-
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leemaram&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LeemaRam&theme=darkhub&no-frame=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=leemaram&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
-
 
 ---
 
@@ -126,15 +95,3 @@
 ## ⚡ Fun Fact
 
 > I love building real-world tech products that solve meaningful problems 🚀
-
----
-
-<!-- OPTIONAL FUTURE ADDITIONS -->
-
-<!-- 
-🔥 Add later:
-- Portfolio Website Link
-- Blog / Articles Section
-- Contribution Snake Animation
-- GitHub Activity Graph
--->
