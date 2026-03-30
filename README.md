@@ -94,11 +94,18 @@
 
 <!-- TROPHIES -->
 
+<!-- TROPHIES + ACHIEVEMENTS -->
+
 ## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=leemaram&theme=onedark&no-frame=true&margin-w=10" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api?username=leemaram&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
 
 ---
 
