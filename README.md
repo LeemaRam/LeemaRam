@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Leema Ram</h1>
-<h3 align="center">🚀 Web Developer | AI Enthusiast | Future Tech Entrepreneur</h3>
+<h3 align="center">💻 Frontend-Focused Full Stack Developer | Building AI-Powered Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LeemaRam&label=Profile%20Views&color=0e75b6&style=flat" />
