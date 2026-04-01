@@ -70,6 +70,14 @@
 
 ---
 
+## 💬 Most Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeemaRam&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
