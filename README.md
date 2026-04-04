@@ -35,10 +35,6 @@
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/LeemaRam" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-LeemaRam-181717?style=for-the-badge&logo=github" />
-</a>
-
 <a href="https://linkedin.com/in/leema-ram" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Leema%20Ram-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
