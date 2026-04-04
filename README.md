@@ -83,6 +83,14 @@
 
 ---
 
+## 🖥️ Most Used Languages & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,git&theme=dark" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
