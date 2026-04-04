@@ -27,21 +27,34 @@
 
 <!-- PORTFOLIO -->
 
-## 🌐 Portfolio & Links
+## 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://www.leemaram.me" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge" />
+</a>
+
 <a href="https://github.com/LeemaRam" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-LeemaRam-181717?style=for-the-badge&logo=github" />
 </a>
+
 <a href="https://linkedin.com/in/leema-ram" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Leema%20Ram-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Leema%20Ram-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://twitter.com/leema-ram23" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/leema-ram23?style=for-the-badge&logo=twitter" />
-</a>
+
 <a href="https://instagram.com/leema_ram1" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram" />
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
 </a>
+
+<a href="mailto:leemaram.txt@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://drive.google.com/file/d/1TG-fPMbIjanITye3lxzOaao_BiX-blpu/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=googledrive" />
+</a>
+
 </p>
 
 ---
