@@ -83,10 +83,10 @@
 
 ---
 
-## 🖥️ Most Used Languages
+## 🖥️ Most Used Languages & Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeemaRam&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,tailwind,git&theme=dark" />
 </p>
 
 ---
