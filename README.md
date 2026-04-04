@@ -97,17 +97,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LeemaRam&theme=darkhub&no-frame=true" />
 </p>
 
----
-
-<!-- SUPPORT -->
-
-## ☕ Support Me
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/leemaram">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
-</a>
-</p>
 
 ---
 
