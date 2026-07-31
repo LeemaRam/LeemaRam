@@ -87,20 +87,11 @@
 
 ---
 
-## 📈 Most Languages Used
+## 🏆 GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeemaRam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeemaRam&theme=darkhub&no-frame=true" />
-</p>
-
+* 💼 Frontend-focused full stack development with React, Next.js, Node.js, and TypeScript  
+* 🤖 Building AI-powered products for real-world use cases  
+* 🌱 Continuously learning and shipping practical projects  
 
 ---
 
