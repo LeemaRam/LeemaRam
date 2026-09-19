@@ -72,52 +72,32 @@ A full-stack ecommerce and marketplace application with customer, vendor and adm
 
 # 🛠️ Tech Stack
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,restapi" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
-
-### Tools & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,azure,vercel,vscode,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,laravel,express,mysql,mongodb,git,github,azure,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeemaRam&theme=github_dark"
-    width="100%"
-    alt="Leema Ram GitHub Contributions"
-  />
-</p>
+## 📊 GitHub
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeemaRam&theme=github_dark"
-    width="49.5%"
-    alt="GitHub Stats"
+    width="48%"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeemaRam&theme=github_dark"
-    width="49.5%"
-    alt="Most Used Languages"
+    width="48%"
+  />
+</p>
+
+## 📈 Contributions
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/40c463/LeemaRam"
+    width="100%"
+    alt="Leema Ram GitHub Contributions"
   />
 </p>
 
