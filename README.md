@@ -37,25 +37,13 @@ I build full-stack web applications using **React, Laravel, PHP and MySQL**, wit
 
 ---
 
-## 💼 Experience
-
-### SoftLinks FZCO
-
-**Full-Stack Developer Intern → Trainee Software Developer**
-
-Working on full-stack web applications across frontend, backend, APIs, databases and application integrations using modern React and Laravel-based architectures.
-
----
-
 # 🚀 Featured Projects
 
 ### 🛒 Montwo Marketplace
 
 A multilingual full-stack marketplace currently under active development, built with a scalable architecture for listings, customers, messaging, moderation, promotions and administration.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,laravel,php,mysql,azure,github" />
-</p>
+**React • Laravel • PHP • MySQL • Tailwind CSS • Azure**
 
 🔒 **Repository:** Private
 
@@ -65,9 +53,7 @@ A multilingual full-stack marketplace currently under active development, built 
 
 An AI-powered healthcare documentation platform that converts medical consultation audio into structured clinical reports while supporting patients, doctors, appointments, follow-ups and administration.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,python,fastapi,mongodb,azure" />
-</p>
+**React • TypeScript • Node.js • FastAPI • MongoDB • OpenAI • Azure**
 
 🌐 [clinixai.live](https://clinixai.live)
 🔗 [github.com/LeemaRam/clinix.ai](https://github.com/LeemaRam/clinix.ai)
@@ -78,9 +64,7 @@ An AI-powered healthcare documentation platform that converts medical consultati
 
 A full-stack ecommerce and marketplace application with customer, vendor and administrative functionality.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,laravel,php,mysql" />
-</p>
+**React • Laravel • Tailwind CSS • MySQL**
 
 🔗 [github.com/LeemaRam/shop-co](https://github.com/LeemaRam/shop-co)
 
@@ -97,7 +81,7 @@ A full-stack ecommerce and marketplace application with customer, vendor and adm
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,restapi" />
 </p>
 
 ### Databases
@@ -109,7 +93,7 @@ A full-stack ecommerce and marketplace application with customer, vendor and adm
 ### Tools & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vercel,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,azure,vercel,vscode,postman" />
 </p>
 
 ---
@@ -127,16 +111,15 @@ A full-stack ecommerce and marketplace application with customer, vendor and adm
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeemaRam&theme=github_dark"
-    width="48%"
+    width="49.5%"
     alt="GitHub Stats"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeemaRam&theme=github_dark"
-    width="48%"
+    width="49.5%"
     alt="Most Used Languages"
   />
 </p>
----
 
 # 🎓 Education
 
