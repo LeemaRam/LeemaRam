@@ -55,8 +55,7 @@ An AI-powered healthcare documentation platform that converts medical consultati
 
 **React • TypeScript • Node.js • FastAPI • MongoDB • OpenAI • Azure**
 
-🌐 [clinixai.live](https://clinixai.live)
-🔗 [github.com/LeemaRam/clinix.ai](https://github.com/LeemaRam/clinix.ai)
+🌐 [clinixai.live](https://clinixai.live)      🔗 [github.com/LeemaRam/clinix.ai](https://github.com/LeemaRam/clinix.ai)
 
 ---
 
@@ -78,26 +77,24 @@ A full-stack ecommerce and marketplace application with customer, vendor and adm
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeemaRam&theme=github_dark"
-    width="48%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeemaRam&theme=github_dark"
-    width="48%"
-  />
-</p>
-
-## 📈 Contributions
+## 📊 GitHub Activity
 
 <p align="center">
   <img
     src="https://ghchart.rshah.org/40c463/LeemaRam"
     width="100%"
-    alt="Leema Ram GitHub Contributions"
+    alt="GitHub Contributions"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeemaRam&theme=github_dark"
+    width="49.7%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeemaRam&theme=github_dark"
+    width="49.7%"
   />
 </p>
 
