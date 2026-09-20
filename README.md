@@ -4,17 +4,7 @@
 Full-Stack Software Developer | React • Laravel • PHP • MySQL
 </h3>
 
-<p align="center">
-  <a href="https://www.leemaram.me">
-    <img src="https://img.shields.io/badge/Portfolio-leemaram.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/leema-ram">
-    <img src="https://img.shields.io/badge/LinkedIn-Leema%20Ram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:leemaram101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://www.leemaram.me" target="_blank"> <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111111?style=for-the-badge" /> </a> <a href="https://linkedin.com/in/leema-ram" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Leema%20Ram-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://instagram.com/leema_ram1" target="_blank"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" /> </a> <a href="mailto:leemaram.txt@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" /> </a> <a href="https://drive.google.com/file/d/1TG-fPMbIjanITye3lxzOaao_BiX-blpu/view" target="_blank"> <img src="https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=googledrive" /> </a> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LeemaRam&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -37,37 +27,13 @@ I build full-stack web applications using **React, Laravel, PHP and MySQL**, wit
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🛒 Montwo Marketplace
-
-A multilingual full-stack marketplace currently under active development, built with a scalable architecture for listings, customers, messaging, moderation, promotions and administration.
-
-**React • Laravel • PHP • MySQL • Tailwind CSS • Azure**
-
-🔒 **Repository:** Private
-
----
-
-### 🏥 Clinix.ai
-
-An AI-powered healthcare documentation platform that converts medical consultation audio into structured clinical reports while supporting patients, doctors, appointments, follow-ups and administration.
-
-**React • TypeScript • Node.js • FastAPI • MongoDB • OpenAI • Azure**
-
-🌐 [clinixai.live](https://clinixai.live)      🔗 [github.com/LeemaRam/clinix.ai](https://github.com/LeemaRam/clinix.ai)
-
----
-
-### 🛍️ SHOP.CO
-
-A full-stack ecommerce and marketplace application with customer, vendor and administrative functionality.
-
-**React • Laravel • Tailwind CSS • MySQL**
-
-🔗 [github.com/LeemaRam/shop-co](https://github.com/LeemaRam/shop-co)
-
----
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| 🛒 **Montwo Marketplace** | Multilingual marketplace with listings, messaging, moderation and admin management. | React • Laravel • PHP • MySQL • Tailwind • Azure | 🌐 [Live](https://montwo.leemaram1.me) • 🔒 Private |
+| 🏥 **Clinix.ai** | AI-powered healthcare platform for consultation transcription and clinical documentation. | React • TypeScript • Node.js • FastAPI • MongoDB • OpenAI • Azure | 🌐 [Live](https://clinixai.live) • 🔗 [Repo](https://github.com/LeemaRam/clinix.ai) |
+| 🛍️ **SHOP.CO** | Full-stack ecommerce marketplace with customer, vendor and admin functionality. | React • Laravel • Tailwind • MySQL | 🔗 [Repo](https://github.com/LeemaRam/shop-co) |
 
 # 🛠️ Tech Stack
 
@@ -81,6 +47,13 @@ A full-stack ecommerce and marketplace application with customer, vendor and adm
 
 <p align="center">
   <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LeemaRam"
+    alt="Leema Ram GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://ghchart.rshah.org/40c463/LeemaRam"
     width="100%"
     alt="GitHub Contributions"
@@ -89,47 +62,13 @@ A full-stack ecommerce and marketplace application with customer, vendor and adm
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeemaRam&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeemaRam"
     width="49.7%"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeemaRam&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeemaRam"
     width="49.7%"
   />
-</p>
-
-# 🎓 Education
-
-**BS Computer Science**
-National University of Technology (**NUTECH**), Islamabad
-**2022 – 2026**
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.leemaram.me">
-  <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/LeemaRam">
-  <img src="https://img.shields.io/badge/GitHub-LeemaRam-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/leema-ram">
-  <img src="https://img.shields.io/badge/LinkedIn-Leema%20Ram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:leemaram101@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://drive.google.com/file/d/1TG-fPMbIjanITye3lxzOaao_BiX-blpu/view">
-  <img src="https://img.shields.io/badge/Resume-View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
-</a>
-
 </p>
 
 ---
